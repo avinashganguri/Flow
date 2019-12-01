@@ -20,7 +20,7 @@
         android:id="@+id/visit_user_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="user name"
+        android:text="Enter Your User Name"
         android:layout_below="@+id/visit_profile_image"
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
